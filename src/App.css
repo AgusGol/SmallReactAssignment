@@ -1,0 +1,18 @@
+main {
+  display: flex;
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #061622;
+  overflow: hidden;
+}
+
+div.mainContainer {
+  width: 50%;
+}
+
+@media (min-width: 1200px) {
+  main {
+    width: 80vw;
+    margin: auto;
+  }
+}
