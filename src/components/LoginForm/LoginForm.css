@@ -124,3 +124,9 @@ form div {
 .error {
     color: rgb(245, 85, 85);
 }
+
+@media (max-width: 768px) {
+    .formContainer {
+        width: 80%;
+    }
+}

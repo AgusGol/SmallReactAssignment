@@ -16,3 +16,14 @@ div.mainContainer {
     margin: auto;
   }
 }
+
+@media (max-width: 500px) {
+  main {
+    flex-direction: column;
+  }
+
+  div.mainContainer {
+    width: 100%;
+    margin-top: 30px;
+  }
+}

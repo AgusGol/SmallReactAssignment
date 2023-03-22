@@ -43,3 +43,16 @@
     align-self: baseline;
     margin-top: 10px;
 }
+
+@media (max-width: 768px) {
+    .tips {
+        width: 90%;
+    }
+}
+
+@media (max-width: 500px) {
+    .tips {
+        top: 6%;
+        height: 100px;
+    }
+}
