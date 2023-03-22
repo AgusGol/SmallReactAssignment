@@ -1,4 +1,4 @@
-import './ImageAndTips.css';
+import './RightScreen.css';
 import rightImage from '../../assets/images/right_image.png';
 import Tips from '../Tips/Tips';
 

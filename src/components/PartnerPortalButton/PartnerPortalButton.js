@@ -1,4 +1,4 @@
-import './PartnerPortaalBtn.css'
+import './PartnerPortalBtn.css'
 import logo from '../../assets/images/klup_logo.png'
 
 function PartnerPortalBtn() {

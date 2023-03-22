@@ -1,11 +1,11 @@
 import './LeftScreen.css';
-import PartnerPortaalBtn from '../PartnerPortaalBtn/PartnerPortaalBtn';
+import PartnerPortaalButton from '../PartnerPortalButton/PartnerPortalButton';
 import LoginForm from '../LoginForm/LoginForm.js'
 
 function LeftScreen() {
     return (
         <div className='mainContainer'>
-            <PartnerPortaalBtn />
+            <PartnerPortaalButton />
             <LoginForm />
         </div>
     );
